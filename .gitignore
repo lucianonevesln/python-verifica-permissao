@@ -1,0 +1,5 @@
+venv/
+
+clientes/__pycache__/
+
+calculo/__pycache__/
